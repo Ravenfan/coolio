@@ -1,0 +1,14 @@
+#a {
+  background-color: rgb(109, 77, 47);
+  border-color: rgb(109, 77, 47);
+}
+
+#b {
+  background-color: rgb(44, 27, 5);
+  border-color: rgb(44, 27, 5);
+}
+
+canvas {
+  border-color: rgb(49, 33, 13);
+  border-style: groove;
+}
